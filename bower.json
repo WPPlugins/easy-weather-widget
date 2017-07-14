@@ -1,0 +1,20 @@
+{
+  "name": "Easy Weather Widget",
+  "homepage": "https://github.com/statenweb/easy-weather-widget",
+  "authors": [
+    "Mat Gargano <mgargano@gmail.com>"
+  ],
+  "description": "Easy Weather Widget",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "weather-icons": "^2.0.10"
+  }
+}

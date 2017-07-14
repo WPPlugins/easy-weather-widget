@@ -1,0 +1,21 @@
+{
+  "name": "easy-weather-widget",
+  "description": "Easy Weather Widget",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1",
+    "grunt-bower-installer": "^0.3.6",
+    "grunt-composer": "^0.4.5",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-dist": "0.0.6",
+    "grunt-sass": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mat Gargano <mgargano@gmail.com>",
+  "license": "ISC"
+}

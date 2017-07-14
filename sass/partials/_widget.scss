@@ -1,0 +1,55 @@
+.eww {
+
+  &__bold p {
+    margin: 0;
+    line-height: 120%;
+  }
+  &__bold {
+    font-weight: bold;
+  }
+  &__title {
+    margin-bottom: 10px;
+  }
+  &__clearfix {
+    *zoom: 1;
+  }
+  &__clearfix:before,
+  &__clearfix:after {
+    content: "";
+    display: table;
+    line-height: 0;
+  }
+  &__clearfix:after {
+    clear: both;
+  }
+  &__image,
+  &__data {
+    float: left;
+  }
+  &__data {
+    padding-left: 10px;
+  }
+  &__image {
+    margin-top: 5px;
+    line-height: 100%;
+  }
+  &__content {
+    list-style-type: none;
+  }
+
+  &__icon {
+    font-size: 50px;
+  }
+  &__wrap {
+    margin-bottom: 20px;
+    padding-top:20px;
+    ul li {
+      list-style: none;
+    }
+  }
+  &__limited-margin {
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+
+}
